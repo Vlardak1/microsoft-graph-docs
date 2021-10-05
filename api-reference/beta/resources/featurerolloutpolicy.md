@@ -44,6 +44,10 @@ The following are pre-requisites for each of the features that are currently sup
 
 * Associate alternate email  with user accounts.
 
+### CertificateBasedAuthentication
+
+* Enable [CertificateBasedAuthentication](/azure/active-directory/authentication/active-directory-certificate-based-authentication-get-started) using powershell.
+
 ## Methods
 
 | Method                                                                         | Return Type                                     | Description                                                               |
